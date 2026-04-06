@@ -8,7 +8,7 @@
     {
       "name": "平安视界",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/IPV4-1224.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/IPV4.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
