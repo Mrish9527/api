@@ -1,92 +1,29 @@
 {
-    "spider": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/spider.jar",
-  "wallpaper": "https://api.hn/api.php?zd=zsy",
-  "warningText": "---------Stronger敬告---------\n \n资源来自网络如侵权懒得删！\n \n国内ISP线路限制，不正常实属正常\n \n勿信广告和公众号引流\n \n---------且用且珍惜---------\n \n---------2025.05.20---------",
-  "logo":   "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/palogo.png",
-  "homeLogo": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/palogo.png",
-
-    "lives": [
-     {
-      "name": "直播丨平安本地",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/live.txt",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png"
-    },
+ "spider": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/spider.jar",
+  "wallpaper": "https://api.mtyqx.cn/api/random.php",
+  "warningText": "---------Stronger敬告---------\n \n资源来自网络如侵权懒得删！\n \n国内ISP线路限制，不正常实属正常\n \n勿信视频内植广告和公众号引流\n \n---------且用且珍惜---------\n \n---------2026.10.07---------\n \n---------Happy everyday to 平平&安安 too! 😊 ！---------",
+  "logo": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/palogo.png",
+  "homeLogo": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/palogo.png",
+  "lives": [
     {
-      "name": "直播丨平安自用",
+      "name": "平安视界",
       "type": 0,
+      "url": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/tv/refs/heads/main/IPV4.txt",
       "playerType": 1,
-      "url": "https://raw.gitmirror.com/Mrish9527/xs/refs/heads/main/live.txt",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png"
-    },
-    {
-      "name": "直播丨老王转自用防崩",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://git.acwing.com/cnlv/tv/-/raw/main/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png"
-    },
-         {
-            "name": "直播丨Guovin自动更",
-            "type": 0,
-            "url": "https://raw.githubusercontents.com/Guovin/iptv-api/gd/output/result.txt",
-            "playerType": 2
-        },
-    {
-      "name": "直播丨老王自动更",
-      "type": 0,
-      "url": "https://live.iptv365.org/live.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.cn/tv/{name}.png"
-    },
-    {
-      "name": "直播丨jiangnan自动更",
-      "type": 0,
-      "url": "https://raw.githubusercontents.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/live_ipv4.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.cn/tv/{name}.png"
-    },
-    {
-      "name": "直播丨IPTV自动更",
-      "type": 0,
-      "url": "https://raw.githubusercontents.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.cn/tv/{name}.png"
-    },
-        {
-            "name": "直播丨潇洒",
-            "type": 0,
-            "url": "https://raw.githubusercontents.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "直播丨肥羊",
-            "type": 3,
-            "api": "csp_Ysptp",
-            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/live.txt",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png"
-        },
-    {
-      "name": "直播丨平台",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Live",
       "ua": "okhttp/3.15",
-      "playerType": 2
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
     {
-      "name": "直播丨范IPV6",
+      "name": "Yoursmile｜平安™",
       "type": 0,
-      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-      "playerType": 2
+      "url": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-    ],
-
-
+  ],
 
 
     "sites": [
@@ -94,8 +31,8 @@
             "key": "drpy_js_豆瓣",
             "name": "🔥平安™邀您畅享视界",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/drpy.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/api/refs/heads/main/drpy.js"
         },
         {
             "key": "预告",
@@ -151,7 +88,7 @@
 
         {
             "key": "热播影视",
-            "name": "🔥热播｜APP丨平安™",
+            "name": "🐼Stronger丨平安™",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -171,18 +108,6 @@
             "filterable": 0,
             "ext": {
                 "url": "http://tt.ysdqjs.cn"
-            }
-        },
-        {
-            "key": "浪酷影视",
-            "name": "🐼Stronger丨平安™",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.lkuys.cn"
             }
         },
         {
@@ -299,7 +224,7 @@
             "key": "火车影视",
             "name": "🚆火车｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/火车影视.py",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/火车影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -617,7 +542,7 @@
             "key": "哔哩视频",
             "name": "🍾哔哩｜视频丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/哔哩视频.py",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/哔哩视频.py",
             "ext": {
                 "json": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
@@ -627,29 +552,29 @@
             "key": "腾讯视频",
             "name": "🐧腾讯丨视频丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/腾讯视频.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "🍈优酷丨视频丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/优酷视频.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "🥭芒果丨视频丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/芒果视频.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/芒果视频.js"
         },
         {
             "key": "爱奇艺",
             "name": "🥦奇艺丨视频丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/爱奇艺.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/爱奇艺.js"
         },
         {
             "key": "三六零",
@@ -666,7 +591,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/wogg.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/wogg.json"
         },
         {
             "key": "木偶",
@@ -676,7 +601,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/mogg.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/mogg.json"
         },
         {
             "key": "蜡笔",
@@ -687,7 +612,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/lb.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/lb.json"
         },
         {
             "key": "至臻",
@@ -698,7 +623,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/zz.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/zz.json"
         },
         {
             "key": "多多",
@@ -709,7 +634,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/yyds.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/yyds.json"
         },
         {
             "key": "欧哥",
@@ -720,7 +645,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/og.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/og.json"
         },
         {
             "key": "二小",
@@ -731,7 +656,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/ex.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/ex.json"
         },
         {
             "key": "百家",
@@ -742,7 +667,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/bj.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/bj.json"
         },
         {
             "key": "大玩",
@@ -753,7 +678,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/dawo.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/dawo.json"
         },
         {
             "key": "虎斑",
@@ -764,7 +689,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/hb.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/hb.json"
         },
         {
             "key": "闪电",
@@ -775,7 +700,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/sd.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/sd.json"
         },
         {
             "key": "下饭",
@@ -786,7 +711,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/xf.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/xf.json"
         },
         {
             "key": "奥秘",
@@ -797,7 +722,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/am.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/am.json"
         },
         {
             "key": "团长",
@@ -822,7 +747,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/lj.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/lj.json"
         },
         {
             "key": "海绵",
@@ -837,7 +762,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/hm.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/hm.json"
         },
         {
             "key": "Pan1",
@@ -852,7 +777,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/pan1.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/pan1.json"
         },
         {
             "key": "夸父",
@@ -867,7 +792,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/kf.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/kf.json"
         },
         {
             "key": "趣盘",
@@ -899,7 +824,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/aliyunpansearch.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/aliyunpansearch.json"
         },
         {
             "key": "盘库",
@@ -918,8 +843,8 @@
             "key": "双星",
             "name": "✨双星丨4K丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/cloud.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/双星.js",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/cloud.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/双星.js",
             "style": {
                 "type": "list"
             }
@@ -928,8 +853,8 @@
             "key": "懒盘",
             "name": "💾懒盘｜4K丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/cloud.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/懒盘.js",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/cloud.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/懒盘.js",
             "style": {
                 "type": "list"
             }
@@ -948,7 +873,7 @@
             "key": "河马短剧",
             "name": "🦛河马｜短剧丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/河马短剧.py",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/河马短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -959,7 +884,7 @@
             "key": "偷乐短剧",
             "name": "🧜‍偷乐｜短剧丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/偷乐短剧.py",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/偷乐短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -970,7 +895,7 @@
             "key": "爱看短剧",
             "name": "👙爱看｜短剧丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/爱看短剧.py",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/爱看短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -983,7 +908,7 @@
       "name": "🥅剧网｜短剧丨平安™",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/短剧网.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/短剧网.json"
         },
         {
             "key": "短剧屋",
@@ -993,7 +918,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/短剧屋.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/短剧屋.json"
         },
         {
             "key": "QD4K",
@@ -1026,7 +951,7 @@
             "key": "金牌影视",
             "name": "🥇金牌｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/金牌影视.py",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/金牌影视.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1039,7 +964,7 @@
             "key": "猎手影视",
             "name": "🕵猎手｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/猎手影视.py",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/猎手影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1051,7 +976,7 @@
             "key": "美帕影视",
             "name": "🤣美帕｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/美帕影视.py",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/美帕影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1062,7 +987,7 @@
             "key": "嗨皮影视",
             "name": "🥳嗨皮｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/嗨皮影视.py",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/嗨皮影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1109,15 +1034,6 @@
             "name": "🤓奇优｜影视丨平安™",
             "type": 3,
             "api": "csp_Qiyou"
-        },
-        {
-            "key": "苹果影视",
-            "name": "🍏苹果｜影视丨平安™",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "全网影视",
@@ -1232,8 +1148,8 @@
             "key": "采集之王",
             "name": "⛏采集｜合集丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/采集之王.js?type=url&params=.https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/采集静态.json$1$1"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/采集之王.js?type=url&params=.https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/采集静态.json$1$1"
         },
         {
             "key": "爱看机器人",
@@ -1249,49 +1165,49 @@
             "name": "🌈七七｜影视丨平安™",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/七七影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/七七影视.json"
         },
         {
             "key": "可可影视",
             "name": "🍫可可｜影视丨平安™",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/可可影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/可可影视.json"
         },
         {
             "key": "🏄海纳影视",
             "name": "海纳｜影视丨平安™",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/海纳影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/海纳影视.json"
         },
         {
             "key": "面包影视",
             "name": "🍞面包｜影视丨平安™",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/面包影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/面包影视.json"
         },
         {
             "key": "永乐影视",
             "name": "🏃永乐｜影视丨平安™",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/永乐影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/永乐影视.json"
         },
         {
             "key": "雪糕影视",
             "name": "🏔雪糕｜影视丨平安™",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/雪糕影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/雪糕影视.json"
         },
         {
             "key": "流光影视",
             "name": "🌠流光｜影视丨平安™",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/流光影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/流光影视.json"
         },
         {
             "key": "一起影视",
@@ -1326,22 +1242,22 @@
             "key": "思古影视",
             "name": "😔思古｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/思古影视.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/思古影视.js"
         },
         {
             "key": "魔力高清",
             "name": "😈魔力｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/魔力高清.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/魔力高清.js"
         },
         {
             "key": "碟调影视",
             "name": "📡碟调｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/碟调影视.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/碟调影视.js"
         },
         {
             "key": "八号影视",
@@ -1351,7 +1267,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/八号影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/八号影视.json"
         },
         {
             "key": "盒子影视",
@@ -1361,7 +1277,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/盒子影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/盒子影视.json"
         },
         {
             "key": "骚火影视",
@@ -1371,7 +1287,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/骚火影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/骚火影视.json"
         },
         {
             "key": "电影牛",
@@ -1381,28 +1297,28 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/电影牛.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/电影牛.json"
         },
         {
             "key": "剧圈圈",
             "name": "🎭剧圈｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/剧圈圈.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/剧圈圈.js"
         },
         {
             "key": "看了么",
             "name": "🙈看么｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/看了么.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/看了么.js"
         },
         {
             "key": "茶杯狐",
             "name": "🍵茶杯｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/茶杯狐.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/茶杯狐.js"
         },
         {
             "key": "1905",
@@ -1613,28 +1529,28 @@
             "style": {
                 "type": "list"
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/哆啦新番社.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/哆啦新番社.json"
         },
         {
             "key": "56动漫",
             "name": "🕠56｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/56动漫.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/56动漫.js"
         },
         {
             "key": "NT动漫",
             "name": "👩‍🚀NT｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/NT动漫.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/NT动漫.js"
         },
         {
             "key": "Anime1",
             "name": "👨‍🚀A1｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/Anime1.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/Anime1.js"
         },
         {
             "key": "曼波动漫",
@@ -1697,84 +1613,84 @@
             "name": "🌸樱花｜动漫丨平安™",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/樱花动漫.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/樱花动漫.json"
         },
         {
             "key": "巴士动漫",
             "name": "〰巴士｜动漫丨平安™",
             "type": 3,
             "api": "csp_XYQHiker",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/巴士动漫.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/巴士动漫.json"
         },
         {
             "key": "好看动漫",
             "name": "🤩好看｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/好看动漫.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/好看动漫.js"
         },
         {
             "key": "奇米动漫",
             "name": "🦝奇米｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/奇米动漫.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/奇米动漫.js"
         },
         {
             "key": "怡萱动漫",
             "name": "💃怡萱｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/怡萱动漫.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/怡萱动漫.js"
         },
         {
             "key": "花子动漫",
             "name": "🌼花子｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/花子动漫.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/花子动漫.js"
         },
         {
             "key": "动画片",
             "name": "🖼动画片｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/动画片大全.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/动画片大全.js"
         },
         {
             "key": "路漫漫",
             "name": "👨‍🎨路漫漫｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/路漫漫.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/路漫漫.js"
         },
         {
             "key": "动漫岛",
             "name": "👩‍🎨动漫岛｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/动漫岛.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/动漫岛.js"
         },
         {
             "key": "去看吧",
             "name": "📰去看吧｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/去看吧.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/去看吧.js"
         },
         {
             "key": "爱弹幕",
             "name": "🎹爱弹幕｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/爱弹幕.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/爱弹幕.js"
         },
         {
             "key": "异世界",
             "name": "🗺异世界｜动漫丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/异世界.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/异世界.js"
         },
         {
             "key": "荐片",
@@ -1792,7 +1708,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/修罗影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/修罗影视.json"
         },
         {
             "key": "七味",
@@ -1858,7 +1774,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/电影港.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/电影港.json"
         },
         {
             "key": "狐狸君",
@@ -1869,7 +1785,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/狐狸君.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/狐狸君.json"
         },
         {
             "key": "布谷TV",
@@ -1879,7 +1795,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/布谷TV.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/布谷TV.json"
         },
         {
             "key": "BT天堂",
@@ -1889,7 +1805,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/BT天堂.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/BT天堂.json"
         },
         {
             "key": "Mp4电影",
@@ -1939,7 +1855,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/aliShare.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/aliShare.json"
         },
         {
             "key": "夸克云盘",
@@ -1953,7 +1869,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/quarkShare.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/quarkShare.json"
         },
         {
             "key": "UC",
@@ -1967,7 +1883,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/ucShare.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/ucShare.json"
         },
         {
             "key": "百度云盘",
@@ -1986,8 +1902,8 @@
             "key": "短剧合集",
             "name": "🚎短剧｜合集丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/cloud.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/短剧合集.js",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/cloud.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/短剧合集.js",
             "style": {
                 "type": "list"
             }
@@ -1996,8 +1912,8 @@
             "key": "短剧大全",
             "name": "🏎短剧｜大全丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/cloud.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/短剧大全.js",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/cloud.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/短剧大全.js",
             "style": {
                 "type": "list"
             }
@@ -2013,13 +1929,13 @@
             "style": {
                 "type": "list"
             },
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/alist.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/alist.json"
         },
         {
             "key": "网络直播",
             "name": "🏸网络｜直播丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/网络直播.py"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/py/refs/heads/main/网络直播.py"
         },
         {
             "key": "88看球",
@@ -2045,7 +1961,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩合集.json",
+                "json": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩合集.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
@@ -2059,7 +1975,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩听书.json"
+                "json": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩听书.json"
             },
             "style": {
                 "type": "rect",
@@ -2076,7 +1992,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩相声.json"
+                "json": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩相声.json"
             },
             "style": {
                 "type": "rect",
@@ -2093,7 +2009,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩小品.json"
+                "json": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩小品.json"
             },
             "style": {
                 "type": "rect",
@@ -2110,7 +2026,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩戏曲.json"
+                "json": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩戏曲.json"
             },
             "style": {
                 "type": "rect",
@@ -2127,7 +2043,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩演唱会.json"
+                "json": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/json/refs/heads/main/哔哩哔哩演唱会.json"
             },
             "style": {
                 "type": "rect",
@@ -2433,8 +2349,8 @@
             "name": "🌪追剧｜弹幕丨平安™",
             "type": 3,
             "jar": "https://git.acwing.com/cnlv/xs/-/raw/main/spider0306.jar",
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/追剧弹幕.js"
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/追剧弹幕.js"
         },
         {
             "key": "小苹果弹幕",
@@ -2483,7 +2399,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://git.acwing.com/cnlv/xs/-/raw/main/spider0306.jar",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/秀儿影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/秀儿影视.json"
         },
         {
             "key": "低端影视",
@@ -2543,7 +2459,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://git.acwing.com/cnlv/xs/-/raw/main/spider0306.jar",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/可可影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/可可影视.json"
         },
         {
             "key": "海纳影视",
@@ -2551,7 +2467,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://git.acwing.com/cnlv/xs/-/raw/main/spider0306.jar",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/海纳影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/海纳影视.json"
         },
         {
             "key": "面包影视",
@@ -2559,7 +2475,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://git.acwing.com/cnlv/xs/-/raw/main/spider0306.jar",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/面包影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/面包影视.json"
         },
         {
             "key": "永乐影视",
@@ -2567,7 +2483,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://git.acwing.com/cnlv/xs/-/raw/main/spider0306.jar",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/永乐影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/永乐影视.json"
         },
         {
             "key": "雪糕影视",
@@ -2575,7 +2491,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://git.acwing.com/cnlv/xs/-/raw/main/spider0306.jar",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/雪糕影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/雪糕影视.json"
         },
         {
             "key": "流光影视",
@@ -2583,7 +2499,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://git.acwing.com/cnlv/xs/-/raw/main/spider0306.jar",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/流光影视.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XBPQ/refs/heads/main/流光影视.json"
         },
         {
             "key": "耐看影视",
@@ -2610,9 +2526,9 @@
             "key": "思古影视",
             "name": "🏩思古｜影视丨平安™",
             "type": 3,
-            "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
+            "api": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/drpy2.min.js",
             "jar": "https://git.acwing.com/cnlv/xs/-/raw/main/spider0306.jar",
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/思古影视.js"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/js/refs/heads/main/思古影视.js"
         },
         {
             "key": "百思派",
@@ -2623,7 +2539,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/百思派.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/百思派.json"
         },
         {
             "key": "电影牛",
@@ -2634,7 +2550,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://g.blfrp.cn/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/电影牛.json"
+            "ext": "https://down.mxw.xx.kg/https://raw.githubusercontent.com/Mrish9527/XYQHiker/refs/heads/main/电影牛.json"
         },
         {
             "key": "1905",
